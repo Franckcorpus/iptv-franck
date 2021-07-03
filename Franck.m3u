@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1, Willax
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhlyMJlA)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTM3U
+
+#EXTINF:-1, Latina
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1, ATV+
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDM4MzcyLCJzZXNzaW9uIjoiMTkwLjQyLjExMC4xODgiLCJ3aGl0ZWxpc3QiOlsiMTkwLjQyLjExMC4xODgiXX0sInNpZ25hdHVyZSI6IjY5ODBhZTUxNmE3NjZhZjhkOWMyZWFmYmY0YWVmYTE2ZWM3YjdkMDIifQ==
+
+
+#EXTM3U
+
+#EXTINF:-1, PE|AMERICA TV
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=X0nPVDRa4r0FMjICfmYzGou5CvRFrlSb&sid=QSqDfjpBADNys0aetMsWTrkykYOn3xSA&pid=uAC3NgTNRFFjyZ8LexHFAy46NTprO6q2&an=screen&at=web-app&av=v5.2.148&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=720x405&without_cookies=false&dnt=true&access_token=EnlJaSbWGiJLjvMGq0GzKCk3BU5dgo4XOTKrlqHec1Ji1DWVw5OdVOQssl5SRoZmctgkMHkOU9L
+
+
+#EXTINF:-1, Exitosa
+https://cu.onliv3.com/livevd1/user2_low/index.m3u8
+
+#EXTINF:-1, RT Español
+https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
