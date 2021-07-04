@@ -8,7 +8,6 @@ https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhl
 #EXTINF:-1, Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
-
 #EXTM3U
 
 #EXTINF:-1, ATV+
@@ -28,5 +27,16 @@ https://cu.onliv3.com/livevd1/user2_low/index.m3u8
 https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
 
 
-#EXTINF:-1, Directv Sports
-https://directvsports-live.akamaized.net/hls/live/2026679/DTVSPAN/stream05/hdntl=exp=1625432237~acl=%2f*~data=hdntl~hmac=c97d49ae00e38416a925ef32377bebd27fd30196871010c82ffe7c45d611e16c/streamPlaylist.m3u8
+#EXTINF:-1, Paramount Network
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8
+
+
+
+#EXTINF:-1, Directv GO
+https://photocall.tv:443/js8g/hls/directv.m3u8
+
+
+#EXTINF:-1, TYC
+https://playback2.akamaized.net/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/master.m3u8?dw=80&hdnts=exp=1625362363~acl=/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/master.m3u8*~hmac=394b8327874dde705c51f4e49b9db765c94a2f1303e1fd7d8802adf23f328c7f
+
+
