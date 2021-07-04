@@ -18,7 +18,7 @@ https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/.m3u8?iut=eyJwYXJhbX
 #EXTM3U
 
 #EXTINF:-1, PE|AMERICA TV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=X0nPVDRa4r0FMjICfmYzGou5CvRFrlSb&sid=QSqDfjpBADNys0aetMsWTrkykYOn3xSA&pid=uAC3NgTNRFFjyZ8LexHFAy46NTprO6q2&an=screen&at=web-app&av=v5.2.148&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=720x405&without_cookies=false&dnt=true&access_token=EnlJaSbWGiJLjvMGq0GzKCk3BU5dgo4XOTKrlqHec1Ji1DWVw5OdVOQssl5SRoZmctgkMHkOU9L
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=dJ7PEh7ofpkY5oXxCowPXHUIbz91KXtC&sid=VcQXqFjygkaoSIpuBhxqAevxdVRZpGYw&pid=Jc1xOfiCY3j2D8kCHoVE6E3UPefoDOh0&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&dnt=true&access_token=b7MasWv8EyILWmQbl9brezC4bK0sjdoLmFpEUsivxIQ9hPEE5e7UARBvw7I6lA0nOup6feSm99p&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1625446134773&ot=g_a761wNPSQWNG8qjjbtSA&proto=https&pz=us
 
 
 #EXTINF:-1, Exitosa
@@ -26,3 +26,7 @@ https://cu.onliv3.com/livevd1/user2_low/index.m3u8
 
 #EXTINF:-1, RT Español
 https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
+
+
+#EXTINF:-1, Directv Sports
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSPAN/stream05/hdntl=exp=1625432237~acl=%2f*~data=hdntl~hmac=c97d49ae00e38416a925ef32377bebd27fd30196871010c82ffe7c45d611e16c/streamPlaylist.m3u8
