@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Willax
+#EXTINF:-1 tvg-logo="https://willax.tv/wp-content/uploads/2018/07/willax-tv2.jpg", Willax
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhlyMJlA)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTM3U
