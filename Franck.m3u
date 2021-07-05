@@ -1,2 +1,7 @@
 #EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/df3dd3179bdea53dd9ee259bf901655d2875d029175b951b2002919842df4f4d._V_SX300_.jpg", Viuda de sangre
 https://fvs.io/redirector?token=YkZESHlPTWs1bEh3TzdnM21aV3ByZDBjVCtvR1VkVzRtQjBYbkxMYk50VVc4bUZ3ZTY0cHNUb3pGeDVrNlpyMDZXdFpCcmp5blZxSmdJNURORTJSTHBrQmgyazlQTENUaldoNXkwVElURzR0aGVsUVhZRTNxcitDNlhlb1BtUFV2dUpOUllWZHk2NWhVQms4K3Z6Ym1CUjlpdlBzU1lHWWwwaz06KzQxcWZ2dDJmL0ZtdTBpMmRGNmV3dz09
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Willax_TV_2010.svg/revision/latest/scale-to-width-down/512?cb=20200407162247&path-prefix=es" group-title="Cine" Willax
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhlyMJlA)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
