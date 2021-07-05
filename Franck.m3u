@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Willax_TV_2010.svg/revision/latest/scale-to-width-down/512?cb=20200407162247&path-prefix=es" Willax
+#EXTINF:-1
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Willax_TV_2010.svg/revision/latest/scale-to-width-down/512?cb=20200407162247&path-prefix=es" Willax
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhlyMJlA)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTM3U
