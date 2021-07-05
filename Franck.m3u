@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Willax_TV_2010.svg/revision/latest/scale-to-width-down/512?cb=20200407162247&path-prefix=es" group-title="Cine" Willax
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Willax_TV_2010.svg/revision/latest/scale-to-width-down/512?cb=20200407162247&path-prefix=es" group-title="Cine" Willax
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhlyMJlA)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTM3U
@@ -42,7 +42,7 @@ https://photocall.tv:443/js8g/hls/directv.m3u8
 https://playback2.akamaized.net/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/master.m3u8?dw=80&hdnts=exp=1625362363~acl=/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/master.m3u8*~hmac=394b8327874dde705c51f4e49b9db765c94a2f1303e1fd7d8802adf23f328c7f
 
 #EXTM3U
-#EXTINF:0 group-title="peliculas" tvg-logo="//image.tmdb.org/t/p/w185/y74qbogS4r32ypQIEBpzLR4bMtq.jpg", Viuda de sangre
+#EXTINF:-1, group-title="peliculas" tvg-logo="//image.tmdb.org/t/p/w185/y74qbogS4r32ypQIEBpzLR4bMtq.jpg", Viuda de sangre
 https://fvs.io/redirector?token=YkZESHlPTWs1bEh3TzdnM21aV3ByZDBjVCtvR1VkVzRtQjBYbkxMYk50VVc4bUZ3ZTY0cHNUb3pGeDVrNlpyMDZXdFpCcmp5blZxSmdJNURORTJSTHBrQmgyazlQTENUaldoNXkwVElURzR0aGVsUVhZRTNxcitDNlhlb1BtUFV2dUpOUllWZHk2NWhVQms4K3Z6Ym1CUjlpdlBzU1lHWWwwaz06KzQxcWZ2dDJmL0ZtdTBpMmRGNmV3dz09
 
 
