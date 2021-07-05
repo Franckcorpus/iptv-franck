@@ -73,6 +73,8 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenYw_fJPPVclMISAxThdYo28tYqSYSS-eYg&usqp=CAU", TV Perú
 https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/index.m3u8
 
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/07/panamericana.svg", Panamericana
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtq_SEZb_NUyVctvl7Cqt-c)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 
