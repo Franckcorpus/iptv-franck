@@ -35,7 +35,7 @@ http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/footer/noticias/cl/logo.jpg", Directv GO
-https://photocall.tv:443/js8g/hls/directv.m3u8
+https://photocall.tv/vq0w/hls/directv.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/e43e6e743eebadfb662e235ca68fe3f2.png", TYC
