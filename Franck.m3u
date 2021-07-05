@@ -45,5 +45,34 @@ https://playback2.akamaized.net/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/m
 #EXTINF:-1, group-title="peliculas" tvg-logo="https://gyao-pctr.c.yimg.jp/fm3pUuCMT9YUMx3MlyMesqL9nAFiRJP2uhAPccZBVLOTSLU2vslPp-j7CQ2v51E9emCAU-R-ZBS3nrmbnm5kRrM-NmitRWzmfCsUqa9SIQlp6TUtdFfKUSXOTK125IoS8d_s2UiNVtMVKjV2F8cFYtgf5vGBGPgwPUDXYJWBQmD20SnELrExIzsGzNGgYQjgEPcbb_fGvuVlJ68FHLy59A==", Viuda de sangre
 https://fvs.io/redirector?token=YkZESHlPTWs1bEh3TzdnM21aV3ByZDBjVCtvR1VkVzRtQjBYbkxMYk50VVc4bUZ3ZTY0cHNUb3pGeDVrNlpyMDZXdFpCcmp5blZxSmdJNURORTJSTHBrQmgyazlQTENUaldoNXkwVElURzR0aGVsUVhZRTNxcitDNlhlb1BtUFV2dUpOUllWZHk2NWhVQms4K3Z6Ym1CUjlpdlBzU1lHWWwwaz06KzQxcWZ2dDJmL0ZtdTBpMmRGNmV3dz09
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRke2n8urxqksQ7rks6Ts4-6luwP3sNo7LaZg&usqp=CAU", Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRke2n8urxqksQ7rks6Ts4-6luwP3sNo7LaZg&usqp=CAU", Golden
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTYprVkEAA-KmtimA2YDNilCI-4Txi_UqAWcjXTgHOYmUwrx3UwAIUxvDYakLH6nkqpo&usqp=CAU", MX|Estrella Tv
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1CajUAJrJ9VQ9uf7-wXT7JkHJ3ru5eCz8w&usqp=CAU", Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3p7yG4lTAdlNujupBbgQumoNr_EYcTF--Q&usqp=CAU", Disney channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiesBdMOuwCMuAVG6g1-9HhMeRt69naeo6SA&usqp=CAU", Disney Junior
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenYw_fJPPVclMISAxThdYo28tYqSYSS-eYg&usqp=CAU", TV Perú
+https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/index.m3u8
+
+
 
 
