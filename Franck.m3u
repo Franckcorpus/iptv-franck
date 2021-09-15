@@ -1,109 +1,614 @@
 #EXTM3U
+#EXTINF:-1  group-title="DEPORTES", EIN SPORTS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=winhd&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", LA LIGA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=laliga&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", NBC
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=nbcsn&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", GOLTV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=goltv&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", AFIZZIONADOS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=afizzionados&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", BEIN SPORTS N
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=beines&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=directv&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", DIRECTV SPORTS +
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=directvplus&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS PREMIUM
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsportp&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn1mx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 2
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn2mx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 3
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn3mx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espnextramx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espndep&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsport1mx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 2
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsport2mx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 3
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsport3mx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tudnmx&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN US
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tudnus&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tvcdep&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TIGO SPORTS GUATEMALA
+https://playback2.akamaized.net/streams/28858495_9035716_lsiru8ytbfifey12dlv_1/master.m3u8?dw=80&hdnts=exp=1620676268~acl=/streams/28858495_9035716_lsiru8ytbfifey12dlv_1/master.m3u8*~hmac=95726cac0b0cb79158be0d123ba40a169f984e5ae9921ca3f7d6aa786f817c7a
 
-#EXTINF:-1 tvg-logo="https://cdne.diariocorreo.pe/redactor/uploads/2018/08/23/DIARIO%20CORREO%20-%20DESYUNOS%20DE%20CORREO%20Y%20USIL%20-%20WILLAX%20-%20WILLAX%20-%201.jpg", Willax
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu72TeAPgScJvraGhlyMJlA)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+#EXTINF:-1  group-title="SERIES", COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=comedy&f=.m3u8
+#EXTINF:-1  group-title="SERIES", A&E
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=ae&f=.m3u8
+#EXTINF:-1  group-title="SERIES", AXN
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1  group-title="SERIES", SONY
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=sony&f=.m3u8
+#EXTINF:-1  group-title="SERIES", TBS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tbs&f=.m3u8
+#EXTINF:-1  group-title="SERIES", TLC
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tlc&f=.m3u8
+#EXTINF:-1  group-title="SERIES", TLNOVELAS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tlnovelas&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tlnovelas&f=.m3u8
+#EXTINF:-1  group-title="SERIES", TNT SERIES
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tntseries&f=.m3u8
+#EXTINF:-1  group-title="SERIES", DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=distrito&f=.m3u8
+#EXTINF:-1  group-title="SERIES", FX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=fx&f=.m3u8
 
-#EXTM3U
+#EXTINF:-1  group-title="CINEMA", UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=universal&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", WARNER
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=warner&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", AZ CINEMA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=azcinema&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", AMC
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=amc&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", CINECANAL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=cinecanal&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", CINEMAX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=cinemax&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", CINE LATINO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=cinelatino&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", CINE LATINO HD
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=cinelatinohd&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", CLARO CINEMA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=clarocinema&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", DE PELICULA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dpelicula&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", DE PELICULA PLUS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dpeliculaplus&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", DHE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dhe&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", EUROPA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=europa&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", EURO CHANNEL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=euroch&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", FILMS & ARTS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=filmarts&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", FXM
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=fxm&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", GOLDEN
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=golden&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=edge&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=goldenplus&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=goldenp&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hboes&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO 2
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hbo2&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO PLUS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hboplus&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hbofamily&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO MUNDI
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hbomundi&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO POP
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hbopop&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hbosignature&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", HBO XTREME
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hboxtreme&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", I SAT
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=isat&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", MORBIDO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=morbido&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", MULTI CINEMA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mc&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", MULTI PREMIERd
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mp&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=paramount&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", SPACE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=space&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR CHANNEL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starch&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR ACTION
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=staraction&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR CINEMA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starcinema&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR CLASSICS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starclassics&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR COMEDY
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starcomedy&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR FUN
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starfun&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR HITS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starhits&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR LIFE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starlife&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STAR SERIES
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=starseries&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=studiou&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", SYFY
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=syfy-1&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", TCM
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tcm&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", TNT
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tnt&f=.m3u8
+#EXTINF:-1  group-title="CINEMA", AZ MUNDO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=azmundo&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TNT Series MÃ©xico" tvg-logo="" group-title="CINEMA", TNT Series MÃ©xico
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=352&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Space MExico" tvg-logo="" group-title="CINEMA", Space MExico
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=345&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Studio Universal" tvg-logo="" group-title="CINEMA", Studio Universal
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=346&f=.ts
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=289&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FoX Channel" tvg-logo="" group-title="CINEMA", FoX Channel
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=295&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Action" tvg-logo="" group-title="CINEMA", Fox Premium Action
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=297&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Family Oeste" tvg-logo="" group-title="CINEMA", Fox Premium Family Oeste
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=300&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Movies" tvg-logo="" group-title="CINEMA", Fox Premium Movies
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=301&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Series Oeste" tvg-logo="" group-title="CINEMA", Fox Premium Series Oeste
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=302&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FX" tvg-logo="" group-title="CINEMA", FX
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=306&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FXM Oeste" tvg-logo="" group-title="CINEMA", FXM Oeste
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=307&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HBO + Latinoamerica" tvg-logo="" group-title="CINEMA", HBO + Latinoamerica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=309&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 2 Latinoamerica" tvg-logo="" group-title="CINEMA", HBO 2 Latinoamerica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=310&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HBO Family Latinoamerica" tvg-logo="" group-title="CINEMA", HBO Family Latinoamerica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=311&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LatinoamÃ©rica" tvg-logo="" group-title="CINEMA", HBO LatinoamÃ©rica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=312&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Hbo Xtreme" tvg-logo="" group-title="CINEMA", Hbo Xtreme
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=313&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" A&E Latinoamerica" tvg-logo="" group-title="CINEMA", A&E Latinoamerica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=258&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Axn" tvg-logo="" group-title="CINEMA", Axn
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=263&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Cinecanal Oeste" tvg-logo="" group-title="CINEMA", Cinecanal Oeste
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=275&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" CineLatino" tvg-logo="" group-title="CINEMA", CineLatino
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=276&f=.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdafZhkoLCO3if5u5bxu8O5a-je2a19TSLSxOdo-nhq3QGqiaZv7qIno7WxSuXBNspWy0&usqp=CAU", Latina
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg", ATV+
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDM4MzcyLCJzZXNzaW9uIjoiMTkwLjQyLjExMC4xODgiLCJ3aGl0ZWxpc3QiOlsiMTkwLjQyLjExMC4xODgiXX0sInNpZ25hdHVyZSI6IjY5ODBhZTUxNmE3NjZhZjhkOWMyZWFmYmY0YWVmYTE2ZWM3YjdkMDIifQ==
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", PE|AMERICA TV
-https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://exitosanoticias.pe/v1/wp-content/uploads/2018/12/Logoexitosa111.png", Exitosa
-https://cu.onliv3.com/livevd1/user2_low/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHlU_1VSGEilr2ZY04s3SXVWdb8hohp0fvQ&usqp=CAU", RT Español
-https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0SP1aioGgboxgmiqzWUlQfxW9x3NDBPc2w&usqp=CAU", Paramount Network
-http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/footer/noticias/cl/logo.jpg", Directv GO
-https://photocall.tv/vq0w/hls/directv.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/e43e6e743eebadfb662e235ca68fe3f2.png", TYC
-https://playback2.akamaized.net/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/master.m3u8?dw=80&hdnts=exp=1625362363~acl=/streams/27014129_8167338_lsiu3hb1cnctjb47734_1/master.m3u8*~hmac=394b8327874dde705c51f4e49b9db765c94a2f1303e1fd7d8802adf23f328c7f
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://gyao-pctr.c.yimg.jp/fm3pUuCMT9YUMx3MlyMesqL9nAFiRJP2uhAPccZBVLOTSLU2vslPp-j7CQ2v51E9emCAU-R-ZBS3nrmbnm5kRrM-NmitRWzmfCsUqa9SIQlp6TUtdFfKUSXOTK125IoS8d_s2UiNVtMVKjV2F8cFYtgf5vGBGPgwPUDXYJWBQmD20SnELrExIzsGzNGgYQjgEPcbb_fGvuVlJ68FHLy59A==", Viuda de sangre
-https://fvs.io/redirector?token=YkZESHlPTWs1bEh3TzdnM21aV3ByZDBjVCtvR1VkVzRtQjBYbkxMYk50VVc4bUZ3ZTY0cHNUb3pGeDVrNlpyMDZXdFpCcmp5blZxSmdJNURORTJSTHBrQmgyazlQTENUaldoNXkwVElURzR0aGVsUVhZRTNxcitDNlhlb1BtUFV2dUpOUllWZHk2NWhVQms4K3Z6Ym1CUjlpdlBzU1lHWWwwaz06KzQxcWZ2dDJmL0ZtdTBpMmRGNmV3dz09
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRke2n8urxqksQ7rks6Ts4-6luwP3sNo7LaZg&usqp=CAU", Golden Edge
-https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRke2n8urxqksQ7rks6Ts4-6luwP3sNo7LaZg&usqp=CAU", Golden
-https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTYprVkEAA-KmtimA2YDNilCI-4Txi_UqAWcjXTgHOYmUwrx3UwAIUxvDYakLH6nkqpo&usqp=CAU", MX|Estrella Tv
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1CajUAJrJ9VQ9uf7-wXT7JkHJ3ru5eCz8w&usqp=CAU", Disney XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3p7yG4lTAdlNujupBbgQumoNr_EYcTF--Q&usqp=CAU", Disney channel
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiesBdMOuwCMuAVG6g1-9HhMeRt69naeo6SA&usqp=CAU", Disney Junior
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenYw_fJPPVclMISAxThdYo28tYqSYSS-eYg&usqp=CAU", TV Perú
-https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/07/panamericana.svg", Panamericana
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtq_SEZb_NUyVctvl7Cqt-c)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/telemundo.png", MX|Telemundo	
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CvUEQhvEq9KhL884Xq4zDaoBQlPvafJgliEtJumyLnyJDI7HzXZQrjkfep8AQkWu074TjQvH7uTbLW3PxSnAnvEOPrriELuYDhBcjSEFCATBR2i4AcU8QVfVQN-iZBpI7JfhM9p9SRKikuI0Owi46W5KNUHEB2NnO3QYQvJ7TBHwzJBroPdI6qqSql226hvyWjJdOv9Y6hqIY6QpXgfhpv3jDa53slvFuEKXY4kwyFEurnRYyz8-ZL1Zh9PmFeZFzQCdsbaY7Rd0SQIsfL89ZX9SAmooTBsxGkg3Iyceyz5yATpQa35lHiT5icdHvugtb85MZ-ZL-GSUCmnIkseCrvQ06mLW-ojhdOHa1W8KS_epEloTlxudtDpC0Zt-VXRZ-y0a8snfvKyDN1_BXWHphzho5ZRKUXxNGPzC0bGZiUNKyZhnEjZuGZCCKgkUq-MlxgZsUgujmp4x4-sWoqylJV2TXHNdka-ePu-s2rFYWn7hxbepbo6kaSfbVn8URKpD17oPk0KXsqtqmoTNfSMg4Ox0LjgCA7gUlmvlliyXiVBz6hsADB_XQb15plfx7x0FUj4GDT460svOOpbPNr48DmqBA7CJJGQS5niu1UHn82FqTJJMKk8ksj5huTEi8YiiAgTXYLy_B8qRvafZZH0txNEY32g3nQkvQlMbK_-gb1LXWO-yIam7M8DG0EXWyibmQcXf96QMUa__d-fT77juPMq77jRWrHkBey6KO0hhwSbZZfwSwcTrovs7fbvYQ7A4L4rbxphYkVncnZ5XRaTcvHisbIOZKCIE2X4-ClZTgWalBXP3qX-MXO7JIuSuDAuZ6TLXVYP5_3kSELadWCxPAaGEfKw7Sh8dGE8aDGGE_z8S37vKfyxE7g.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/tlnovelas.png", MX|Tlnovelas
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CvEECdP8_8B_sCmOtOeqk1JTyohZd8eM4xo_UpBFTLLWO7UWti7cgoxo-ja1ABI2PBKcjiAPf_rMT016hZvr3q-vLNRv6c67_H9BRR6jniGzEaxYc-ut6A8rYdf-Aev8NSUsZIC1nj9AwWfBRRijmIgbo_IV9jomlGEHdc5mjamKREulK5UFiZE7fEZR8wFF3S01rskUa-z_48bjYxiO1IOi5_Wz_ks24IyFNU6lVXi8_Xh44MaUW3DN9PKZzgfFDpa29zO0B6o4SQvwAif_4HYyYYa86--AnUA7DlCwv4vHj1a24dwf8Ho1JwPfMhlL0ZS7GcvvLBLQrjlUSXpMNygsyTAQ-pQQIYcR6TRTyTwYmGsnhKmVF4-8zx456eB5YGS60icHe83VfpbwviIAbSKGEOgwCGmFC_4F-BfA6DetAShUBX4Qzc7aJVUJsHQR1T3e_Yo4_yZK6AJiYPTeTBISfYoLbsptn3fCNzCfWZ48VLjIteM5KG1h7UDsIUj0gx7CfduJOVVVTXXx3fcjxMCdbVrPRo6quW6ulo_ZRGRC74g7Wq8FMFNA-yXKJEXFsNT-u6y3LyJTWeoLmtEqi8BBxJ2BwrXiG-vGmeljOD4SiD89e5CGm4bCO9MrhWvU4V1ZoqVkPSwOpm8hua4q1XpOQ0Co8lDITNufldmv7PiT5bCOT-XXakcaC2dLfQlaHTiKHK1AEOFZOtObEu8sOVvAJH4QyW3Q7yRZM08teL__MRZ6iZudc6vVng-9Eug3612lhMxSrmIckqqqi3bZTXlwtLiRnUyxViZpYq33xYVsGGmw_j8J4KLI3aAm8woumPhPDBIQ4Qx-w1n2p35nzS24mxOCBBoMyfQtgnkMt3nD8KlO.m3u8
+#EXTINF:-1  group-title="INFANTILES", BABYTV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=babytv&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", BABY FIRST
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=babyfirts&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", BITME
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=bitme&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=boomerang&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=cartoon&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=disneych&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=disneyjr&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=disneyxd&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dkids&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=natgeokids&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", NICK
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=nick&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", NICK JR
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=nickjr&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", TEEN NICK
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=teennick&f=.m3u8
+#EXTINF:-1  group-title="INFANTILES", TOONCAST
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tooncast&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" Boomerang Mexico" tvg-logo="" group-title="INFANTILES", Boomerang Mexico
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=267&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Cartoon Network Mexico" tvg-logo="" group-title="INFANTILES", Cartoon Network Mexico
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=274&f=.ts 
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Channel MÃ©xico" tvg-logo="" group-title="INFANTILES", Disney Channel MÃ©xico
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=287&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Junior Mexico" tvg-logo="" group-title="INFANTILES", Disney Junior Mexico
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=288&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Disney XD Mexico" tvg-logo="" group-title="INFANTILES", Disney XD Mexico
+#EXTINF:-1 tvg-id="" tvg-name=" Nick Jr Latin America" tvg-logo="" group-title="INFANTILES", Nick Jr Latin America
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=335&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Nickelodeon Norte" tvg-logo="" group-title="INFANTILES", Nickelodeon Norte
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=336&f=.ts
 
 
-#EXTM3U
+#EXTINF:-1  group-title="ENTRETENIMIENTO", E!
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=e&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", LIFETIME
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=lifetime&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", PASIONES
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=pasiones&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", TRUTV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=trutv&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", UNICABLE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=unicable&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", UNIVERSO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=universo&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", RCN
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=rcn&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", TELEMUNDO INTERNACIONAL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=telemundoint&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENIMIENTO", AZCORAZON
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=azcorazon&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Paramount Network Latin America" tvg-logo="" group-title="ENTRETENIMIENTO", Paramount Network Latin America
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=340&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Channel Sur" tvg-logo="" group-title="ENTRETENIMIENTO", Sony Channel Sur
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=344&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Tcl" tvg-logo="" group-title="ENTRETENIMIENTO", Tcl
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=349&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TNT AmÃ©rica Latina" tvg-logo="" group-title="ENTRETENIMIENTO", TNT AmÃ©rica Latina
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=351&f=.ts
 
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/history.png", History
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CvAEKnzAZhMxcmSJsmFj_KBK52tH37B4wXa19p1QIXZfCF02lViFjtVkLuIKBFgu6os-yk0AuKLxo8EryGxcUdTQVxxn7N8PjWl8PHnXIVdC3NiG8TL2q2nbkTPOzN7NCQDfsNtze2Ci_hVMeOSduNPL03ROSWO9594t-tJVMnvrwiamFAf_7jWN-nwwN2oBqCkefWAl9c2ZsAi3mrOAsr6sfeHBGFT4BaefRcLF5BpDK-ICT2tq1Lz5-tBNEKxBHw0Nfh40Qx_CmJijSvuS0w-2aKOs6qF42qb_3mhbtaRcT9zfel_6yqqXPqmO8XMy6qDoLQKMI5i0pSRgFU1ZJlRNJzVoxyZK_zTiHn-art-2tLheHiYPHMt_a0labTstT2un4-nlsHCdsFTMK2Cx9TThzkOluTvDacW5BGN4IgtXw5n5OxTgEARf5OcgUHfNF5HArw5OphttdjPZVqHga0cuBz0RSJlXsIQwRUQ7Kq8fQTmix5Q4YaU0SbPRGVL1GmvxZZ5r7wlAinOgA2rtiUjMD53jMVJZD9doxEyiZL2U7WNZ1abYZDTZuuhdvbE7BuL84kWj2X2EfyLDr6H2fHZjnPQf-GzyJuDYcdG9GXom7qXVM8trByo2VffaGPFiBK8QtvLV50tIEwTrLYl3sk-aGU0fYD2bc42BoQQcEzxdk8LlLKtXvsv0QRZdTSv3DXvePvWDN07K0L3gB20CUV3lr3uV2JfBiGYXeyTDFRmuqXZ00q5aR0t0F_-eanDrmsFH2GJHxVZ4lZ4J24h-PHrHsDwXRNJlKJPQi-nV170U5dbUpLr4CqOANsn91acvymrvEhCeddPTYTs2o4SBvYGJ4yg1Ggxfm4NFzC6CcB-zeDQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TNT AmÃ©rica Latina" tvg-logo="" group-title="VARIADO HD", AZTECA UNO HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AZ CLIC HD" tvg-logo="" group-title="VARIADO HD", AZ CLIC HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" AZTECA 7 HD" tvg-logo="" group-title="VARIADO HD", AZTECA 7 HD 
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" AZTECA 7 HD (2)" tvg-logo="" group-title="VARIADO HD", AZTECA 7 HD (2)
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=422&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" NU9VE HD" tvg-logo="" group-title="VARIADO HD", NU9VE HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" LAS ESTRELLAS HD" tvg-logo="" group-title="VARIADO HD", LAS ESTRELLAS HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL5 HD (2)" tvg-logo="" group-title="VARIADO HD", CANAL 5 HD (2)
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ONCE HD" tvg-logo="" group-title="VARIADO HD", ONCE HD 
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" IMAGEN TV HD" tvg-logo="" group-title="VARIADO HD", IMAGEN TV HD  
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" MULTIMEDIOS HD" tvg-logo="" group-title="VARIADO HD", MULTIMEDIOS HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" TELEMUNDO INTERNACIONAL HD" tvg-logo="" group-title="VARIADO HD", TELEMUNDO INTERNACIONAL HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=85&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" FOX HD" tvg-logo="" group-title="VARIADO HD", FOX HD 
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" WARNER HD" tvg-logo="" group-title="VARIADO HD", WARNER HD 
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=205&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" UNIVERSAL HD" tvg-logo="" group-title="VARIADO HD", UNIVERSAL HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=207&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" FX HD" tvg-logo="" group-title="VARIADO HD", FX HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TRUTV HD" tvg-logo="" group-title="VARIADO HD", TRUTV HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=215&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" HOLA HD" tvg-logo="" group-title="VARIADO HD", HOLA TV HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=219&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN HD (2)" tvg-logo="" group-title="VARIADO HD", TUDN HD (2)
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" ADRENALINA SPORTS HD" tvg-logo="" group-title="VARIADO HD", ADRENALINA SPORTS HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" CLARO SPORTS HD" tvg-logo="" group-title="VARIADO HD", CLARO SPORTS HD  
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" FUEL HD" tvg-logo="" group-title="VARIADO HD", FUEL TV HD 
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" VH1 HD" tvg-logo="" group-title="VARIADO HD", VH1 HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=334&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" FORO TV HD" tvg-logo="" group-title="VARIADO HD", FOROTV HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ADN 40 HD" tvg-logo="" group-title="VARIADO HD", ADN 40 HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" MILENIO HD" tvg-logo="" group-title="VARIADO HD", MILENIO HD
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name=" EL FINANCIERO HD" tvg-logo="" group-title="VARIADO HD", EL FINANCIERO HD 
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/cartoon.png", Cartoon Network
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CvMEZI5SVXkhz8KxLwu9Afk5gs0zVj2Jvg3Rb0pr-gZ0woupx99iPE8T_L-BfFDKPTHf2feNB0gZZG4HzfOY2ZqNTPMwMFInFCF6cTLcyhStQUr-Oc_AB2uJaCWOEkiMZcXzPkmsamItOrYekAo5YPV0WX-_Fsa0IBfteKKJVtus2hbvhwl_AwUFM-5LqLaHxsCzuqnRCqW3yv81Z8MVtTT0sN59YPNsSG_-TeZo2FwSeiKagZgfBrZtoVj54VKw1EZr6ri7kajtlWqNPIVGl33ts-VL3woILVoJ4_YfcPbRwY9o-k_A9Pi2nnQkvwUAKBrBJ1NKsMiErEUUwoISz3tEdRitJYmA8fRAmU9YJGQHtyk547UIlThK-eGqP8cS9UenufIv_PKH5M4FjJKXGN69WOjMRFhCmY9zfPc7qwwGKrMfhIVaoCyBv_5IDGuNoJb_sGft42PZJMefK7lVh9VP0X92tmui2zNt8A1BX_OjShTCttSYrcUnINKQgYOHHncsEJ2fEHmJs1douHQj_ltgY2YzLiPRdiGfGao5WG9x97dC3jXqViIhXh7Q_oWj8ljg2B82PCYMm_w7Sjwfx7KiDHJyiuwvjtCix7sd2TH_GqWcjFB7CFLOxYjLcc3GiBPz51fmDJt5xDiA-lQ-scl9BHKtjgFdjn6uIcDrBWFq1xoFFOAXlyv8UMPwqMfJ4sFmifdK-N0hmP7bMEOVmH5KeTF1s1fp6HgOXCNyrh8ZKGE1ZLZ5RYNpd4bWPEkbfVcmcubupjk6yT49JbKrsYeNrwQPjji65sMjFZkfSwXzwwV3Wp3dq_ICp-9Yfv67rP9sLaI5EhBBq4KMQV-LhEz8Euh0BNMxGgyXWVY5LrKpfHS7YYo.m3u8
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/discovery.png", Discovery channel
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CvEEfiJPQTEC0SMIiIdMjh8ygWHWMwUmRVt_-3aN7bSaksL_kGJC1Iv4Ze_f6QEy1WrvoNryNF0_TfVRU6q5Hu5008M2slEaAGmWXE3XN40Hstjps5IY9orCOdgziMJ_oKoZhhDWr_L2y1eML8CUTIRVYzJmcQDkgBSYwIFDvphxwvdy_JXhblsOz9fIfxczyPZ08GD9ABz5a5gUjYIC8jFDKy1Z66kxl6wReKz7Yd3Kp6MuoB-mr9ZIn7aWuX0fFEcKB9ZQMx9O7avJhUC4MKgLbseXOtdg56Kj14d07Jy0OOe6Td1mF76WMBydkdt7xm8DVuVoZ5ry2tBlvARJ-cgBgGLb15ldjl8ZRr38VSgkj81RBmqHaOKz-K0ENBG2yjl7JsHHPBzJKOiFR5ph7KOO9WA80vwEZIZTwfHlKCXqddcwV8B-Pcfy6Yrclnj4CS3Zb0qKgStMnnq3MXangED9_Wc0VSbe65OIcYhTqC4SQyCQdyw4gD-qEt99so0eXqlhI_AR0npoIOs2OPZC0l5H29WROMpFhYWHWmwlGapZ2rGxXHX-RfO8qNbZPp_X5jplcFc5yiiU2QzC6poF9OJxKfgspKBWaAARPV3pWcongQRI_9he8tB1dIwFadW5BpO7hIRt6yPBZr0URR4mZko6djijAfwh3t3Dxd99S9DbuTPU_q8jwlqCDSf_NCW-fCo11Nu1s2bvbkkBAIefXrSW3lrGQoIsbep23v9hQprraiNmFsQbgIF0Z81BEVLebyqrg9MynFSD20pcJRPHS1dWi0rLKJjDlAlyY-WzuguryxWjmrBgMlIhFS3BTH_EncTJ3hIQctT44paTXmXAuzVMCdJv-xoMJPD2_K--vilxc-el.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY ID
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=2376&p=3&k=srregio&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=animalp&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=discovery&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY SCIENCE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dciencia&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dcivil&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY THEATER
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dtheater&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dturbo&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", DISCOVERY WORLD
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=dworld&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", FOOD NETWORK
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=food&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", GOURMET
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=gourmet&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", HISTORY
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=history&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", H2
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=history2&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", H&H
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=hh&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", HOLATV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=holatv&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", MAS CHIC
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=maschic&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", NAT GEO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=natgeo&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", NAT GEO WILD
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=natgeowild&f=.m3u8
+#EXTINF:-1  group-title="CULTURA", AZ CLIC
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=azclic&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CNN en EspaÃ±ol" tvg-logo="" group-title="CULTURA", CNN en EspaÃ±ol
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=279&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Channel" tvg-logo="" group-title="CULTURA", Discovery Channel
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=283&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Home & Health" tvg-logo="" group-title="CULTURA", Discovery Home & Health
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=284&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Turbo" tvg-logo="" group-title="CULTURA", Discovery Turbo
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=286&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Animal Planet LatinoamÃ©rica" tvg-logo="" group-title="CULTURA", Animal Planet LatinoamÃ©rica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=259&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" History LatinoamÃ©rica" tvg-logo="" group-title="CULTURA", History LatinoamÃ©rica
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=315&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name="  Investigation Discovery" tvg-logo="" group-title="CULTURA",  Investigation Discovery
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=321&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" National Geographic Norte" tvg-logo="" group-title="CULTURA", National Geographic Norte
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=333&f=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" National Geographic Wild" tvg-logo="" group-title="CULTURA", National Geographic Wild
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=334&f=.ts
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/natgeo.png", Nat Geo
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CvMEXuVp_lH4OjmgWC30c9ipl1i8FXynDQteuJZZ04yslArMTs1guwr4qdsXS_7LtoTZi-fzqN-kejNCdNJg3YF1s8eWVDo7rm_7JeatJsX_7jL1q6VWpBsTRZmELhTgUhKGhLWiuwRA4Mh1oTKwaVD3Vc7H5ACTwmf5aS5HaNU2sPhX24GLZLAT1aCIGD6al3KEHGefrzs6UCcZvtDY21befNWjT-twV8EgIqKxF4fOrkh7W9nmwux-Ze0-6GKyusPNxrqKaxSG1RUv6DkBZ-OUDeOfVmZbi9N2ZUOmbHg0Y_fA74I-GjCLr_ZMtkHt_F_pjR3pHjZDHimdq_3Azm_gHj-TkwYaT0eucv_VfwJe-o-QqViNRC62ClK3NMkkYl90z4xL6I2OP25RELlucHuZ7DQtwFVCgImQibNgfQPCJ93Hc8eRQiGpuYUTMjxHsRPlbLXhiGCyN6A9rXcI4nVXXRr9etmPPGyCw3v956sputghgOnfE-hmVpmI-mqByPxPnH9hnk7eCw84OCvT3i3vKYhe-hAf2rMC4Q0_34MPHm80QBqpju9s1eQmQ3ksStJoMzAxv7hguoHFb1ArIEVnklBwMhrGcKuLWQaOgYIRCvoVHLCjoHff9DmTMLwfHFb19iPPmhCwqGzUvLWwWJxq4yUTzda6uj10uoL0wbDntDbSTt6H3UUFSOCxfgyxy9_Xtvv63AR1h0dszZm6ukhSNd2aes_Zcwpaj94IjOIYdUaGxHc6AQtaFyRgYCupC3g0mHUOyqujTs8npBHN4642iMtlxbK0HlWvaWTiyat3wR14RJseA5CNL9IsPnWhHUR-1SpjEhDLEoh-u8ckuWxTj9ul4FFmGgxryO3t215fYGxfLRI.m3u8
+#EXTINF:-1  group-title="MUSICA", CONCERT
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=concert&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", BANDAMAX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=bandamax&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", EUFORIA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=euforia&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", EXATV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=exatv&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", FOX MIX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxmix-1&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", HTV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=htv&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", LA MEJOR TV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=lamejor&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mtv&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV TR3S
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mtvtr3s&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV HITS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mtvhits&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV LIVE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mtvlive&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV 80S
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mtv80s&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", NICK MUSIC
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=nickmusic&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", TELEHIT
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=telehit&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", TELEHIT PLUS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=telehitplus&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", TELERITMO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=teleritmo&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", TMTV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tmtv&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", VH1
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=vh1&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", VIDEOROLA
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=videorola&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MTV Latino" tvg-logo="" group-title="MUSICA", MTV Latino
+http://ipeteve.com/php/SR_REGIO_0966/regiotv.php?c=329&f=.ts
+
+
+#EXTINF:-1  group-title="TVABIERTA", A+
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=amas&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", AZTECA UNO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=aztecauno&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", EL DOS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=eldos&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", CANAL 5
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=elcinco&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", AZTECA 7
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=azteca7&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", NU9VE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=nueve&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=imagentv&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", MEXIQUENSE
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mexiquense&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", MULTIMEDIOS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=multimedios&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTAV", MVS TV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=mvstv&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", TV CUATRO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=tvcuatro&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", ONCE TV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=oncetv&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", ADN40
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=adn40&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", CNN
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=cnnes&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", FORO TV
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=forotv&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", MILENIO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=milenio&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", GALAVISION
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=galavision&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", TELEMUNDO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=telemundo&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", UNIMAS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=unimas&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", UNIVISION
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=univisionhd&f=.m3u8
+#EXTINF:-1  group-title="TVABIERTA", CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=claro&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Azteca Uno" tvg-logo="" group-title="TVABIERTA", Azteca Uno
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=aztecauno&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Las Estrellas MÃ©xico" tvg-logo="" group-title="TVABIERTA", Las Estrellas MÃ©xico
+http://ipeteve.com/php/SR_REGIO_0966/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+
+
+
+
+
+
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021 | 
+http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump | 
+http://ipeteve.com/REGIOFLIX100321/ForestGump.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre | 
+http://ipeteve.com/REGIOFLIX100321/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables | 
+http://ipeteve.com/REGIOFLIX100321/AmInSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021 | 
+http://ipeteve.com/REGIOFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg", Venganza Implacable | 
+http://ipeteve.com/REGIOFLIX100321/Honest.thief.2020.1080srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes | 
+http://ipeteve.com/REGIOFLIX100321/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL | 
+http://ipeteve.com/REGIOFLIX100321/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror | 
+http://ipeteve.com/REGIOFLIX100321/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020) | 
+http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | 
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | 
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | 
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | 
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | 
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | 
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | 
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | 
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | 
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | 
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | 
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | 
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | 
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+
+
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1", Ruega por nosotros | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/ForestGump.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/AmInSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg", Venganza Implacable | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Honest.thief.2020.1080srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020) | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | REGIOFLIX
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | REGIOFLIX
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | REGIOFLIX
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | REGIOFLIX
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | REGIOFLIX
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | REGIOFLIX
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | REGIOFLIX
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | REGIOFLIX
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO | REGIOFLIX
+https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 | REGIOFLIX
+https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | SRREGIO.NET
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | REGIOFLIX  
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | REGIOFLIX  
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO | REGIOFLIX  
+https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles | REGIOFLIX  
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | REGIOFLIX  
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | REGIOFLIX  
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool | REGIOFLIX  
+https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | REGIOFLIX  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | REGIOFLIX  
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | REGIOFLIX  
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
